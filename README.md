@@ -10,7 +10,7 @@ Around The World, with a frontend built in React & Redux and a backend built in 
 
 Check out [FRONTEND LIVE DEMO](https://frontend-aroundtheworld.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-aroundtheworld.herokuapp.com/) here!!
 
 ## Tech used
 
